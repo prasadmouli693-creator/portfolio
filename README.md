@@ -1,4 +1,4 @@
-# Local Web Studio Portfolio
+# Prasad Web Studio Portfolio
 
 A simple static portfolio website for selling one-page websites to local businesses.
 
